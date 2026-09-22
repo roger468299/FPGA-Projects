@@ -1,2 +1,2 @@
 # FPGA-Projects
-A collection of FPGA projects.
+A collection of my FPGA projects.
