@@ -9,3 +9,4 @@ https://github.com/user-attachments/assets/b9ec3a53-6ffb-448a-ab25-6a3a066ab1d3
 
 The code is working as expected.
 All 4 LEDs are blinking at the same time at their specific frequencies.
+The counter values for each LED had to be halved because it has a 50% duty cycle.
