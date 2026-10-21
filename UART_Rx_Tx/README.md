@@ -10,3 +10,8 @@ Stop Bits:        1
 Flow Control:     None 
 ```
 
+## Success
+
+https://github.com/user-attachments/assets/217d477c-1649-44d3-bcbd-ba57ba460cf7
+
+The program is working as expected. The data that is being sent to the Go board from the computer is being relayed back to the computer.
